@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soham13u" alt="soham13u" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/61/b6/1861b66e9866ba9a69c871da37ab8203.gif">
+<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/18/61/b6/1861b66e9866ba9a69c871da37ab8203.gif">
 
 - 📫 How to reach me **sohamup13@gmail.com**
 
