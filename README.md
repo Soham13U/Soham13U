@@ -28,7 +28,7 @@
 
 
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soham13u&show_icons=true&locale=en&theme=tokyonight" alt="soham13u" />
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=soham13u&show_icons=true&locale=en&theme=tokyonight" alt="soham13u" />
 
 
 
