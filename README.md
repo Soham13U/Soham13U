@@ -32,3 +32,5 @@
 <hr>
 
 [![Soham's github activity graph](https://activity-graph.herokuapp.com/graph?username=Soham13U&theme=github)](https://github.com/Soham13U/github-readme-activity-graph)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soham13Ua&repo=StockMarket_Analysis)](https://github.com/Soham13U/StockMarket_Analysis)
