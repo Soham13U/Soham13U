@@ -5,7 +5,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/42/36/d0/4236d00b6df31c5c1dab3566fa61ff3c.gif">
+
 
 - 📫 How to reach me **sohamup13@gmail.com**
 
