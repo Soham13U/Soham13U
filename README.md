@@ -2,7 +2,7 @@
 <h3 align="center">Student | Game Dev Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soham13u&label=Profile%20views&color=0e75b6&style=flat" alt="soham13u" /> </p>
-<p align="center"><img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" height=20px></p>
+
 
 
 
