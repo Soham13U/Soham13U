@@ -35,6 +35,6 @@
 
 <hr>
 
-[![Soham's github activity graph](https://activity-graph.herokuapp.com/graph?username=Soham13U&theme=github)](https://github.com/Soham13U/github-readme-activity-graph)
+<a href="https://github.com/Soham13U/github-readme-activity-graph"><img alt="Soham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Soham13U&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
