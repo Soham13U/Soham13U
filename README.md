@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soham</h1>
 <h3 align="center">Student | Game Dev Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soham13u&label=Profile%20views&color=0e75b6&style=flat" alt="soham13u" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=soham13u&label=Profile%20views&color=0e75b6&style=flat" alt="soham13u" /> </p>
 
 
 
