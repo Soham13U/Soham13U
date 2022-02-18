@@ -8,9 +8,7 @@
 
 
 <p align="center">
- 📫 How to reach me sohamup13@gmail.com
-
-  ⚡ Fun fact I love music
+ 📫 How to reach me sohamup13@gmail.com <br> ⚡ Fun fact I love music
  
   </p>
 
