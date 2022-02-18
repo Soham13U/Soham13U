@@ -11,6 +11,7 @@
  📫 How to reach me- sohamup13@gmail.com <br> 💬 Currently working as a technical intern at August Code Solutions Pvt. Ltd <br>🌱 I’m currently learning React, Redux <br> 👯 I’m looking to collaborate on Game Dev projects, Chatbots<br> ⚡ Fun fact I love music 
  
   </p>
+  <hr>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
