@@ -11,7 +11,7 @@
   <br> 💬 Currently working as a technical intern at <b>August Code Solutions Pvt. Ltd</b> <br>🌱 I’m currently learning <b>React, Redux</b> <br> 👯 I’m looking to collaborate on <b>Game Dev projects, Chatbots</b><br>📫 How to reach me- <b>sohamup13@gmail.com</b> <br> ⚡ Fun fact I love music 
  
   </p>
-  <hr>
+  
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
@@ -25,7 +25,7 @@
  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soham13u&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="soham13u" />
 </p>
-<hr>
+
  <h2 align="center">GitHub Stats</h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=soham13u&show_icons=true&locale=en&theme=tokyonight" alt="soham13u" />
