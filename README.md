@@ -25,10 +25,10 @@
 
 
 
-&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=soham13u&show_icons=true&locale=en&theme=tokyonight" alt="soham13u" />
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=soham13u&show_icons=true&locale=en&theme=tokyonight" alt="soham13u" />
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soham13u&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="soham13u" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=soham13u&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="soham13u" />
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=soham13u&theme=tokyonight" alt="soham13u" />
 
