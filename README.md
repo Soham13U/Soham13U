@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soham13u&show_icons=true&locale=en" alt="soham13u" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soham13u&" alt="soham13u" /></p>
+
+[![Soham's github activity graph](https://activity-graph.herokuapp.com/graph?username=Soham13U&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
