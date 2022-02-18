@@ -26,7 +26,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soham13u&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="soham13u" />
 </p>
 
- <h2 align="center">📜GitHub Stats</h2>
+<br> <h2 align="center">📜GitHub Stats</h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=soham13u&show_icons=true&locale=en&theme=tokyonight" alt="soham13u" />
 </p>
