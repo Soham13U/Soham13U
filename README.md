@@ -9,9 +9,9 @@
 
 <p align="center">
   <ul>
-    <li>📫 How to reach me **sohamup13@gmail.com**</li>
+    <li>📫 How to reach me sohamup13@gmail.com</li>
 
-    <li>⚡ Fun fact **I love music**</li>
+    <li>⚡ Fun fact I love music</li>
     </ul>
   </p>
 
