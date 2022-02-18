@@ -7,10 +7,13 @@
 
 
 
+<p align="center">
+  <ul>
+    <li>📫 How to reach me **sohamup13@gmail.com**</li>
 
-- 📫 How to reach me **sohamup13@gmail.com**
-
-- ⚡ Fun fact **I love music**
+    <li>⚡ Fun fact **I love music**</li>
+    </ul>
+  </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
