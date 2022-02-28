@@ -5,7 +5,7 @@
 
 
 
-
+ 
 
 <p align="center">
   <br> 💬 Currently working as a technical intern at <b>August Code Solutions Pvt. Ltd</b> <br>🌱 I’m currently creating a <b>Role Playing Game in Unity</b> <br> 👯 I’m looking to collaborate on <b>Game Dev projects, Chatbots</b><br>📫 How to reach me- <b>sohamup13@gmail.com</b> <br> ⚡ Fun fact I love music 
