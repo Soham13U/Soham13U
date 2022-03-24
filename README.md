@@ -38,5 +38,5 @@
 
 <a href="https://github.com/Soham13U/github-readme-activity-graph"><img alt="Soham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Soham13U&bg_color=1A1B27&color=2C7B77&line=70A4FC&point=FFFFFF&hide_border=false" /></a>
 
-[![Soham's github activity graph](https://activity-graph.herokuapp.com/graph?username=Soham13U)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Soham's github activity graph](https://activity-graph.herokuapp.com/graph?username=Soham13U)](https://github.com/Soham13U/github-readme-activity-graph)
  
