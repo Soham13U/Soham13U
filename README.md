@@ -8,7 +8,7 @@
  
 
 <p align="center">
-  <br> 💬 Currently working as a technical intern at <b>August Code Solutions Pvt. Ltd</b> <br>🌱 I’m currently creating a <b>Role Playing Game in Unity</b> <br> 👯 I’m looking to collaborate on <b>Game Dev projects, Chatbots</b><br>📫 How to reach me- <b>sohamup13@gmail.com</b> <br>My Portfolio Website - https://soham-upadeo.netlify.app/ <br> 🎹 Fun fact I love music 
+  <br> 💬 Currently working as a technical intern at <b>August Code Solutions Pvt. Ltd</b> <br>🌱 I’m currently creating a <b>Role Playing Game in Unity</b> <br> 👯 I’m looking to collaborate on <b>Game Dev projects, Chatbots</b><br>📫 How to reach me- <b>sohamup13@gmail.com</b> <br>My Portfolio Website - https://soham-upadeo.netlify.app <br> 🎹 Fun fact I love music 
  
    </p>
   
