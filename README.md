@@ -53,9 +53,7 @@ I build structured, scalable systems across web and games.
 
 ---
 
-## GitHub Stats
-
-![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=soham13u&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/soham13u?cardType=level-alternate&theme=dark&fontFamily=&preferLogin=false&Points.Issues=0)](https://git.io/awesome-stats-card)
 
 
 
