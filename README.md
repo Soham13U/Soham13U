@@ -6,9 +6,6 @@
 </div>
 
 ---
-
-## Links
-
 <p align="left">
   <a href="https://www.linkedin.com/in/soham-upadeo-7984921a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -19,7 +16,6 @@
   <a href="https://soham-upadeo.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23111827.svg?&style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
-  
   <a href="https://github.com/Soham13U" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
