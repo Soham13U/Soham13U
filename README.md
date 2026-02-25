@@ -41,9 +41,9 @@ I build structured, scalable systems across web and games.
 
 ## Current Projects
 
-- **[FocusFlow](https://github.com/Soham13U/FocusFlow)** — A productivity system for task execution, session logs, and insights.
-- **[KnowledgeBase](https://github.com/Soham13U/KnowledgeBase)** — A Zettelkasten-lite knowledge system with an anonymous `userKey` workflow. (**[Live](https://kb-rouge.vercel.app/)**)
-- **[LockedIn Extension](https://github.com/Soham13U/Locked-In-Extension)** — A Chrome extension that replaces distracting sites with motivational overlays.
+- **[FocusFlow](https://github.com/Soham13U/FocusFlow)** - A productivity system for task execution, session logs, and insights.
+- **[KnowledgeBase](https://github.com/Soham13U/KnowledgeBase)** - A Zettelkasten-lite knowledge system with an anonymous `userKey` workflow. (**[Live](https://kb-rouge.vercel.app/)**)
+- **[LockedIn Extension](https://github.com/Soham13U/Locked-In-Extension)** - A Chrome extension that replaces distracting sites with motivational overlays.
 
 ---
 
@@ -55,13 +55,9 @@ I build structured, scalable systems across web and games.
 
 ## GitHub Stats
 
-![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soham13U&show_icons=true&theme=radical)
+![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=soham13u&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)
 
----
 
-## Haiku
-
-![HaikuReadme](https://chinmay29hub-haiku-readme.vercel.app/api?theme=dracula&type=horizontal&border=false&t=1771726303)
 
 ---
 
