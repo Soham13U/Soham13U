@@ -65,8 +65,8 @@ I build structured, scalable systems across web and games.
 - Clean, minimal UI  
 - Built with: Next.js, Prisma, Postgres  
 
-→ Repo: `[your-link-here](https://github.com/Soham13U/KnowledgeBase)`
-→ Live: `[your-link-here](https://kb-rouge.vercel.app/)`
+ [→ Repo](https://github.com/Soham13U/KnowledgeBase)
+ [→ Live](https://kb-rouge.vercel.app/)
 
 ---
 
